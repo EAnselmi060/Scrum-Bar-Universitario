@@ -1,0 +1,10 @@
+{
+    "cedula": "26355060",
+    "nombre": "ednoweri anselmi",
+    "edad": 25,
+    "sexo": "femenino",
+    "telefono": "1234567",
+    "direccion": "uneg",
+    "creditos": 30,
+    "pedidos": []
+}
